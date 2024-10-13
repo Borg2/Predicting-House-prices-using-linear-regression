@@ -1,6 +1,6 @@
 # Linear Regression on Housing Data
 
-This Jupyter notebook contains a linear regression analysis on a housing dataset. The dataset includes various features of houses such as area, price, number of bedrooms, and more. The goal of the analysis is to understand the relationship between the features and the price of houses.
+This notebook contains a linear regression analysis on a housing dataset. The dataset includes various features of houses such as area, price, number of bedrooms, and more. The goal of the analysis is to understand the relationship between the features and the price of houses.
 
 ## Dataset Overview
 
